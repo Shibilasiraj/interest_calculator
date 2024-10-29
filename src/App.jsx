@@ -88,7 +88,6 @@ function App() {
       <div className='bg-light rounded p-5' style={{width:'550px'}}>
       <h2>Simple Interest Calculator</h2>
       <p>Calculate Your Simple interest Easily</p>
-      <p>hey</p>
       <div className='d-flex align-items-center justify-content-center bg-warning rounded text-light flex-column ' style={{height:'150px'}}>
         <h1>₹&nbsp;{simpleInterest}</h1>
         <h5>Total Simple Interest</h5>
